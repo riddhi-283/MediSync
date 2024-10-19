@@ -1,4 +1,4 @@
-![Screenshot 2024-10-19 015609](https://github.com/user-attachments/assets/c47890e0-cd32-4a29-aa1a-abf293d339d8)# MediSync
+# MediSync
 MediSync is a Streamlit application that leverages AI, powered by the LLMs, to analyze lab reports and assist in disease diagnosis. The application utilizes Gemini's OCR capabilities to accurately extract data from lab reports, enabling detailed analysis for diagnosis. It also incorporates OpenAI's GPT-3.5 Turbo to build a Retrieval-Augmented Generation (RAG) system, trained on a comprehensive dataset of diseases, symptoms, and treatments. This project is still in progress and till now, two functionalities have been added:
 
 1) Lab Report Analysis
