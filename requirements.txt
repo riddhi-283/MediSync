@@ -1,0 +1,11 @@
+streamlit 
+openai
+langchain-openai
+langchain-core
+python-dotenv
+langchain_community
+faiss-cpu
+ipykernel
+datasets
+google-generativeai
+langchain_openai
